@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_myShop.py:31 ------xxxxxxxx------------
